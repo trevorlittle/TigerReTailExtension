@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "Tiger Checker",
+    "version": "1.0",
+    "description": "Fetch and display JSON data",
+    "permissions": [
+      "webRequest"
+    ],
+    "host_permissions": [
+        "https://retail.tigerapps.org/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "32": "tigericon32.png"
+      }
+    },
+    "icons": {
+        "32": "tigericon32.png"
+    }
+  }
+  
