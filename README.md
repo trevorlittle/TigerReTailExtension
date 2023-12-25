@@ -1,2 +1,1 @@
-Chrome Extension for Tiger ReTail
-
+# Chrome Extension for Tiger ReTail
