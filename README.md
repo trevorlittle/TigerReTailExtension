@@ -1,3 +1,0 @@
-# TigerReTailExtension
-Chrome extension
-Test
